@@ -22,7 +22,7 @@ This project is built using the following technologies:
 - Click the "Add" button.<br>
 <h4>Mark as Completed:</h4>
 
-Click on a task to mark it as completed.
+- Click on a task to mark it as completed.
 <br>
 
 
