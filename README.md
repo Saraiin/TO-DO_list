@@ -6,7 +6,7 @@
 
 
 
-<h3>Technologies Used: :computer:</h3> :computer:
+<h3>Technologies Used: :computer:</h3> 
 
 This project is built using the following technologies:
 
@@ -14,6 +14,16 @@ This project is built using the following technologies:
 - **JavaScript:** Employed for dynamic and interactive functionalities, such as task management.
 - **CSS:** Styled the web page, enhancing the visual appeal and user experience.
 
+<br>
+<h3>How to Use</h3>
+<h4>Add a Task:</h4>
+
+- Type your task in the input field.<br>
+- Click the "Add" button.<br>
+<h4>Mark as Completed:</h4>
+
+Click on a task to mark it as completed.
+<br>
 
 
 <p>Feel free to check the to-do list <a href="https://saraiin.github.io/TO-DO_list/">here</a> :bulb:
