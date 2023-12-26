@@ -6,7 +6,7 @@
 
 
 
-<h3>Technologies Used:</h3> :computer:
+<h3>Technologies Used: :computer:</h3> :computer:
 
 This project is built using the following technologies:
 
@@ -16,4 +16,4 @@ This project is built using the following technologies:
 
 
 
-<p>Feel free to check the to-do list <a href="https://saraiin.github.io/TO-DO_list/">here</a>
+<p>Feel free to check the to-do list <a href="https://saraiin.github.io/TO-DO_list/">here</a> :bulb:
