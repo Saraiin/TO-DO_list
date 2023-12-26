@@ -5,7 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url('C:/Users/user/Desktop/freecode/TO_DO_List/forest.jpg'); 
+  background-image: url('./forest.jpg'); 
   background-size: contain;
 }
 
