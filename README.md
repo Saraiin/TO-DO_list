@@ -14,8 +14,8 @@ This project is built using the following technologies:
 - **JavaScript:** Employed for dynamic and interactive functionalities, such as task management.
 - **CSS:** Styled the web page, enhancing the visual appeal and user experience.
 
-<br>
-<h3>How to Use</h3>
+
+<h3>How to Use: :memo:</h3>
 <h4>Add a Task:</h4>
 
 - Type your task in the input field.<br>
