@@ -27,3 +27,4 @@ This project is built using the following technologies:
 
 
 <p>Feel free to check the to-do list <a href="https://saraiin.github.io/TO-DO_list/">here</a> :bulb:
+<p>Stay tuned for the next update 😊</p>
