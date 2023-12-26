@@ -5,26 +5,26 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url('./forest.jpg'); 
+  background-image: url('forest.jpg'); 
   background-size: contain;
 }
 
 h1 {
-  font-size: 5em; /* Increase the font size of the heading */
-  margin-bottom: 20px; /* Add space below the heading */
+  font-size: 5em; 
+  margin-bottom: 20px; 
   font-family: 'Agbalumo';
   color: #FCF5E5;
 }
 
 input[type="text"] {
-  font-size: 1em; /* Increase the font size of the input field */
-  padding: 8px; /* Increase the padding for better input field visibility */
+  font-size: 1em; 
+  padding: 8px; 
   margin-left: 35px;
 }
 
 button {
-  font-size: 1em; /* Increase the font size of the button */
-  padding: 8px 15px; /* Adjust the padding for better button visibility */
+  font-size: 1em;
+  padding: 8px 15px; 
   background-color: #5072A7;
   color: white;
   border: none;
