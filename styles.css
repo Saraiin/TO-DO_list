@@ -1,0 +1,64 @@
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('C:/Users/user/Desktop/freecode/TO_DO_List/forest.jpg'); 
+  background-size: contain;
+}
+
+h1 {
+  font-size: 5em; /* Increase the font size of the heading */
+  margin-bottom: 20px; /* Add space below the heading */
+  font-family: 'Agbalumo';
+  color: #FCF5E5;
+}
+
+input[type="text"] {
+  font-size: 1em; /* Increase the font size of the input field */
+  padding: 8px; /* Increase the padding for better input field visibility */
+  margin-left: 35px;
+}
+
+button {
+  font-size: 1em; /* Increase the font size of the button */
+  padding: 8px 15px; /* Adjust the padding for better button visibility */
+  background-color: #5072A7;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 25% 25% 25% 25%;
+  margin-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px; /* Increase the padding for each task item */
+  border-bottom: 1px solid #ddd;
+  background-color: #ACE1AF;
+  border: none;
+  outline: none;
+  font-family: 'Indie Flower';
+  font-size: 25px;
+
+}
+
+.task-done {
+  text-decoration: line-through;
+  color: #888;
+}
+
+
+
+
+
+
